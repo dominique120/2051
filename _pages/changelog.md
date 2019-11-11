@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Mision y Vision
 include_in_header: true
 ---
 

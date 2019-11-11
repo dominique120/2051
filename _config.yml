@@ -11,7 +11,7 @@ presskit_download_link                    : https://emilbaehr.com               
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :  SITI - Como te moveras?                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Gratis                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : La nueva aplicacion para mejorar el trafico en Lima 
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -19,15 +19,15 @@ enable_smart_app_banner                   : false                               
 
 
 # Information About Yourself
-your_name                                 : Dominique Verellen                             
-your_link                                 : https://emilbaehr.com                     
+your_name                                 : Grupo SITY                          
+your_link                                 :                      
 your_city                                 : Lima                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+email_address                             : GrupoSITY@gmail.com
+facebook_username                         : GrupoSITY                      
+instagram_username                        : GrupoSITY
+twitter_username                          : GrupoSITY
+github_username                           : GrupoSITY
+youtube_username                          : GrupoSITY
 
 
 
