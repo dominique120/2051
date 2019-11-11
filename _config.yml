@@ -42,20 +42,20 @@ features                                  :
     description                           : Disponible para los celulares mas populares, y siempre libre de costo.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Informacion actaulizada cada segundo.
-    description                           : Utilizando informacion actualizada de las varias estaciones informativas, la app siempre esta al dia.
+  - title                                 : Producido con el soporte de la municipalidad de Lima
+    description                           : Con el apoyo de las instituciones gubernamentales nuestra app es una fuente informativa oficial.
     fontawesome_icon_name                 : angle-right
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Informacion actaulizada constantemente
+    description                           : Utilizando informacion actualizada de las varias estaciones informativas, la app siempre esta al dia.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Informacion personalizada
+    description                           : Ajusta las opciones de alertas para estar siempre al dia, incluso cuando te olvidas de revisar la applicaion.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Asegurando un buen foturo para los Limeños de mañana
+    description                           : Con nuestra aplicacion contribuimos a un futuro mas sostenible al reducir el tiempo que las personas pasan en su carro.
     fontawesome_icon_name                 : star
 
 
