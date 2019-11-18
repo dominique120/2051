@@ -5,4 +5,4 @@ include_in_header: True
 ---
 
 # Mapa de la Empatia
-![image-title-here](empatia.jpg) {:height="1000px" }
+![Mapa de la Empatia](assets/empatia.jpg) {:height="1000px" }
