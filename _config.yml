@@ -10,9 +10,9 @@ presskit_download_link                    : https://dominique120.github.io/2051/
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :  SITI - Como te moveras?                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  :  SITY - Como te moverás?                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : La nueva aplicacion para mejorar el trafico en Lima 
+app_description                           : La nueva aplicación para mejorar el trafico en Lima 
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,8 +34,8 @@ youtube_username                          : GrupoSITY
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Te Ayuda a Escojer la Mejor Ruta
-    description                           : Usando Inteligencia Artifical, la app tye ayuda a elejir la ruta con menos trafico usando informacion actual.
+  - title                                 : Te Ayuda a Escoger la Mejor Ruta
+    description                           : Usando Inteligencia Artificial, la app tye ayuda a elegir la ruta con menos trafico usando información actual.
     fontawesome_icon_name                 : magic
     
   - title                                 : Disponible Para iOS y Android
